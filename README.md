@@ -3,12 +3,12 @@
 - 2023.05 ~ 2023.06
 - 3명
 
-## Introduction of Project
+## 📝Introduction of Project
 The project is to create a Java application using JDBC and a MySQL database.
 
 The application will allow users to retrieve, insert, update, and delete data in the database.
 
-## Start Guide
+## 🔗Start Guide
 ### How to Connect DB
 - URL : localhost:3306/pj
 - ID : root
@@ -21,15 +21,15 @@ The application will allow users to retrieve, insert, update, and delete data in
 4. Follow the instructions provided by the application for each operation.
 5. To exit the application, choose the "Exit" option from the menu.
 
-## Stacks
+## 📐Stacks
 - JDBC
 - MySQL
 - JAVA
 
-## ER-Diagram
+## 🗒️ER-Diagram
 <img width="477" alt="스크린샷 2024-01-11 오후 10 09 29" src="https://github.com/SeoyoungOhMe/Database-TeamProject/assets/96602351/2499db65-b024-43fd-84e3-1669e1e31583">
 
-## Functionality
+## 📌Functionality
 1. insertProduct method of ProductInsertMenu class : Allows user to add a new product to the database.
 2. OrderProduct method of OrderApplication class : Allows user to place an order for a product.
 3. showCustomerOrderHistory method of OrderHistory class : Displays the order history for a customer.
