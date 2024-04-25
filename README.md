@@ -1,7 +1,7 @@
 # Database-TeamProject
 - 데이터베이스 자바앱 제작 팀프로젝트(23년 1학기 수강)
 - 2023.05 ~ 2023.06
-- 3명
+- 3 people team project
 
 ## 📝Introduction of Project
 The project is to create a Java application using JDBC and a MySQL database.
